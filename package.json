@@ -1,0 +1,27 @@
+{
+  "name": "exemplo-integracao-continua",
+  "version": "1.0.0",
+  "description": "Exemplo de integração contínua com CircleCI",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ads-ifpb-testes/exemplo-integracao-continua.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ads-ifpb-testes/exemplo-integracao-continua/issues"
+  },
+  "homepage": "https://github.com/ads-ifpb-testes/exemplo-integracao-continua#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "@types/jest": "^29.5.0",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
